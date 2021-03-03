@@ -1,6 +1,6 @@
-#Resume Front-end developer
-##Personal information
-###Daniil Grigorev
+#Resume Front-end developer#
+##Personal information##
+###Daniil Grigorev###
 ###email: meral.nekrag@gmail.com
 ###phone number: +79873991577
 ###Linkedin: https://www.linkedin.com/in/daniil-grigorev-5a79a61b5/
